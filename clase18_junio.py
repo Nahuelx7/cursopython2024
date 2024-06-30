@@ -1,6 +1,6 @@
 #Clase Martes 18/06
 
-## Numero ENTEROS = INT o LONG (Siendo el INT el mas utilizado)
+## Numeros ENTEROS = INT o LONG (Siendo el INT el mas utilizado)
 ## Pueden ser Positivo, negativos o enteros
 ## Ejemplo de LONG "454544467744L"
 
